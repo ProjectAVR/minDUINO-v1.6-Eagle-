@@ -1,0 +1,30 @@
+minDUINO v1.6 Parts List
+
+Assembly variant: 
+
+Part     Value          
+
+C1       22pf
+C2       22pf
+C3       100nf
+C4       100nf
+C5       100uf
+C6       100uf
+C7       10nf
+C8       100nf
+C9       10uf
+IC2      7805 5V  linear Regulator
+JP1      Molex Type 2X03 Shrouded Header
+JP2      Molex Type 10X02 Header
+JP3      Molex Type 1X06 Header
+JP4      Molex Type 1x02 Header
+LED1   LED3MM  Red
+LED2   LED3MM  Green
+R1       330R
+R2       330R
+R3       10K
+S1        Tactile Momentary Push Switch
+U$2      Low profile HC49 crystal or Resonator (If a resonator is used, do not fit C1/2)
+U1       ATMEGA328P
+
+1x 28-Pin 3M/Textool ZIF Socket: 228-3341 (Optional)
